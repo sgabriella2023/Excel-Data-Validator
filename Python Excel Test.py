@@ -33,5 +33,5 @@ else:
     print("Differences between the dataframes:")
     print(differences)
 
-differences.to_excel('differences.xlsx', index=False)
+differences.to_excel('differences.xlsx',index=True)
 print(differences.head())
