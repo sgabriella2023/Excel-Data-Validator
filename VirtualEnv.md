@@ -36,7 +36,7 @@ deactivate
 ```commandline
 pip install -r requirements.txt
 ```
-
+x
 ## Installing Individual Packages
 
 You can find package names at the following website
