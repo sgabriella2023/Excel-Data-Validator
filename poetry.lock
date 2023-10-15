@@ -180,7 +180,18 @@ files = [
     {file = "tzdata-2023.3.tar.gz", hash = "sha256:11ef1e08e54acb0d4f95bdb1be05da659673de4acbd21bf9c69e94cc5e907a3a"},
 ]
 
+[[package]]
+name = "xlsxwriter"
+version = "3.1.7"
+description = "A Python module for creating Excel XLSX files."
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "XlsxWriter-3.1.7-py3-none-any.whl", hash = "sha256:8c730c4beb468696c4160aa1d6d168fb4c1a20dd972b212cd8cc1e74ddeab1b6"},
+    {file = "XlsxWriter-3.1.7.tar.gz", hash = "sha256:353042efb0f8551ce72baa087e98228f3394fcb380e8b96313edf1eec8d50823"},
+]
+
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.11,<3.13"
-content-hash = "859c1086c4a33956f26770d6434fadc168e2fb49170c982e2993e0f876b24cba"
+content-hash = "b420715b3c57f3a134588bf754266726538f32c75ef15d9c4ae5760e4ee82f86"
