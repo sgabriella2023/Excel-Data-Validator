@@ -1,7 +1,7 @@
 # SheetChange Automator
 ![Progress](https://progress-bar.dev/100/?title=progress)
 
-#Purpose
+# Purpose
 The SheetChange Automator streamlines and simplifies the process of comparing and tracking changes in dynamic Excel sheets, saving users time and reducing the risk of errors. It empowers data professionals and spreadsheet users to make informed decisions based on accurate and up-to-date data with ease.
 
 Notes for self: 
@@ -13,7 +13,7 @@ Notes for self:
 A common request for a `data analyst` is to calculate the difference for 2 excel workbooks where data may change on a month to month or year to year basis. Especially if the format in excel will be consistent. I decided to finally challenge myself and attempt to recreate the script from scratch to automate this task much faster!
 
 
-![Alt text](image.png)
+![Alt text](https://i.kym-cdn.com/entries/icons/original/000/027/752/6lwrp2xhplg41.jpg)
 
 # Project Goals :dart:
 - [x] Import 2 distinct excel workbooks as 2 separate data frames in Python. 
