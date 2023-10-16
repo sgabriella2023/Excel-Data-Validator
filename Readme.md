@@ -1,4 +1,4 @@
-# Data Validator
+# SheetChange Automator
 ![Progress](https://progress-bar.dev/100/?title=progress)
 
 Notes for self: 

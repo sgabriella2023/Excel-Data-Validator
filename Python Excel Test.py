@@ -1,4 +1,4 @@
-#Data Validator
+#SheetChange Automator
 #Data Source: https://www.ers.usda.gov/data-products/food-price-outlook/food-price-outlook/#Consumer%20Price%20Index
 #missing data, validating data, duplicate
 import xlsxwriter
